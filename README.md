@@ -32,3 +32,5 @@ classDiagram
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
 ```
+
+Projeto BancoDio é a criação um banco digital em Java, onde teve o objetivo de reforçando os conceitos de Programação Orientada a Objetos como abstração, encapsulamento, herança e polimorfismo. Onde o projeto possui contas correntes e poupanças com funcionalidades de depósito, saque e transferência.
