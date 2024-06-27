@@ -34,3 +34,5 @@ classDiagram
 ```
 
 Projeto BancoDio é a criação um banco digital em Java, onde teve o objetivo de reforçando os conceitos de Programação Orientada a Objetos como abstração, encapsulamento, herança e polimorfismo. Onde o projeto possui contas correntes e poupanças com funcionalidades de depósito, saque e transferência.
+
+O projeto Abstração em Java, o projeto foi utilizando os pilares da Programação Orientada a Objetos de forma eficiente: abstração para representar cursos e mentorias, encapsulamento para proteger dados e operações, herança para reutilizar código entre classes e polimorfismo para tratar diferentes tipos de conteúdo de maneira uniforme. 
